@@ -2,7 +2,7 @@
 Vhdl Programming
 this deals with all the programming realted to vhdl
 vhdl programming
-vhdl is good for programmingrrrr
+vhdl is good for programming
 
 
 
