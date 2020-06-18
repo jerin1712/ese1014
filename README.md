@@ -1,6 +1,6 @@
 # ese1014
 Vhdl Programming
-this deals with all the programming realted to vhdfffl
+this deals with all the programming realted to vhdl
 vhdl programming
 vhdl is good for programmingrrrr
 ese1014
